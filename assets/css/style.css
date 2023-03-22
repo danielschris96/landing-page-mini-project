@@ -7,3 +7,9 @@
     position: relative;
     
 }
+
+.nav {
+    display:inline-block;
+    position:relative;
+    margin-left: 200px;
+}
